@@ -19,9 +19,9 @@ bool Try(int count, int need, int c, int u, int d, int t){
 			need--;
 			change = true;
 		}
-		while (count == 0 && current + u < c && need>0){
-			current += u;
-			need--;
+		if (count == 0 && current + u < c && need>0){
+			current += u*need;
+			need = 0;
 		}
 		if (change == false) return false;
 	}
