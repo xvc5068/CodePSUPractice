@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2014TV", "2014TV\2014TV.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2014PARKING", "2014PARKING\2014PARKING.vcxproj", "{B537F60C-4E50-4F81-96C3-D995C6E7EA72}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2014LORAX", "2014LORAX\2014LORAX.vcxproj", "{2F03BA7B-23DF-409C-A8BC-4411B6620358}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -33,6 +35,10 @@ Global
 		{B537F60C-4E50-4F81-96C3-D995C6E7EA72}.Debug|Win32.Build.0 = Debug|Win32
 		{B537F60C-4E50-4F81-96C3-D995C6E7EA72}.Release|Win32.ActiveCfg = Release|Win32
 		{B537F60C-4E50-4F81-96C3-D995C6E7EA72}.Release|Win32.Build.0 = Release|Win32
+		{2F03BA7B-23DF-409C-A8BC-4411B6620358}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2F03BA7B-23DF-409C-A8BC-4411B6620358}.Debug|Win32.Build.0 = Debug|Win32
+		{2F03BA7B-23DF-409C-A8BC-4411B6620358}.Release|Win32.ActiveCfg = Release|Win32
+		{2F03BA7B-23DF-409C-A8BC-4411B6620358}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
